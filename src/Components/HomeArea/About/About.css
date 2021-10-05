@@ -1,3 +1,17 @@
 .About {
-	
+	background-image: url(../../../Assests/Images/career.jpg);
+    background-repeat: no-repeat;
+    background-size:  100%;
+    width: 100%;
+    height: 350%;
+
+
+    
+}
+.About>h1{
+    background-color: rgba(14, 56, 70, 0.705);
+    color: rgb(130, 129, 167);
+    font-style: italic;
+    font-weight: 800;
+    font-size: 20px;
 }

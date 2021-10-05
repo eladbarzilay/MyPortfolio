@@ -1,5 +1,9 @@
 html,body, #root{
-  /* background-image: url(./Assests/images/bg.png); */
+  background-image:url(././Assests/Images/elad.png), url(././Assests/Images/coffe.png);
+  background-size: 10% ,100%;
+  background-repeat: no-repeat;
+  background-position: center, center;
+  background-position-x: center;
   margin: 0;
   padding: 0;
   height: 100%;

@@ -1,0 +1,57 @@
+.Menu2{
+
+}
+
+
+    
+.Menu .Button:hover{
+        background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    }
+
+    .Menu2   {
+
+    }
+
+    .MuiButton-label{
+        align-items: center;
+        height: 45px;
+        margin: 10px 0px;
+        outline: none;
+        color:#fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        
+
+    }
+    .MuiButton-label:hover{
+        background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    }
+    .MuiTouchRipple-root{
+        color: green;
+    }
+    .button{
+        background-color:white;
+    }
+
+    
+.CouponDetails .addbutton{
+    align-items: center;
+    height: 45px;
+    margin: 25px 0px;
+    outline: none;
+    color:#fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    }
+    
+    .CouponDetails  .addbutton:hover{
+        background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    }

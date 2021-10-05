@@ -1,0 +1,56 @@
+.NavBar {
+	
+}
+ .NavBar  img{
+    float:left;
+    width: 55px;;
+    padding: 10px;
+
+
+}
+nav ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+nav{
+    float: right;
+}
+logo{
+
+}
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-right: 100px;
+    position: relative;
+}
+.NavBar a{
+    color: rgb(27, 16, 18);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.NavBar  a:hover{
+    color: rgb(168, 80, 139);
+}
+header::after{
+    content: "";
+
+}
+.NavBar  a::before{
+    content: " ";
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color:rgb(27, 16, 18);
+    top: 0;
+    width:0%;
+    transition: ease-in-out 250ms;
+   
+}
+.NavBar  a:hover::before{
+width: 100%;
+}

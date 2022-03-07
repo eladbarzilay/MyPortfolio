@@ -12,12 +12,12 @@
 }
 
 .Layout > header{
-    background-color: #74d4ac;
+    background-color: #63d4a586;
     color:white
 }
 
 .Layout > footer{
-    background-color: lightblue;
+    background-color: rgba(12, 110, 143, 0.486);
 }
 
 .Layout > main, .Layout > aside{

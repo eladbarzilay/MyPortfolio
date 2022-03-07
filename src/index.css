@@ -1,6 +1,7 @@
 html,body, #root{
-  background-image:url(././Assests/Images/elad.png), url(././Assests/Images/coffe.png);
-  background-size: 10% ,100%;
+  background-image: url(././Assests/Images/coffe.png);
+
+  background-size:100%;
   background-repeat: no-repeat;
   background-position: center, center;
   background-position-x: center;
@@ -20,6 +21,7 @@ html,body, #root{
 img{
   align-content: center;
   padding-top: 10px;
+
 }
 
 
